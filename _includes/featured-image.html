@@ -7,3 +7,9 @@
     {% endif %}
 </div>
 {% endif %}
+
+{% if page.video  %}
+<div class="entry-featured-image">
+    <div class='embed-container'><iframe src='{{page.video}}' frameborder='0' allowfullscreen marginwidth="0" marginheight="0" scrolling="no" seamless></iframe></div>
+</div>
+{% endif %}

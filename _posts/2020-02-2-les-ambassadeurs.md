@@ -4,7 +4,7 @@ title:  "Les Ambassadeurs, the first Restaurant we Visited in Paris"
 author: sal
 categories: [ Lifestyle ]
 tags: [ France ]
-video: vimeo.com/fart
+video: https://player.pbs.org/viralplayer/3028457357/
 image: 
 rating: 4.5
 ---
@@ -20,3 +20,5 @@ Following a renovation of the hotel in 1981–85, the restaurant occupied a form
 Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.
 
 In 2017 Hache opened a smaller restaurant, L'Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.
+
+<iframe width="512" height="332" src="https://player.pbs.org/viralplayer/3028457357/" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" seamless allowfullscreen></iframe>

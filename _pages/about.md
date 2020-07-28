@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Please enjoy Bao, a hearty snack on the internet 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: logo@2x.gif
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+This is an experiment to try to make the kind of website I wish existed -- some diverting things to read and think about and look at, a collection of things that my friends have been making or doing, and stuff that I think more people should know about. I hope it can become a companion to the little online community we have here at [Paddleboat](https://paddleboat.online/login). Until someone else wants to co-edit with me, it might feel a bit like a personal blog. Thanks for reading!
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
-
+-- Ním

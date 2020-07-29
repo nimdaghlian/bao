@@ -2,7 +2,7 @@
 layout: post
 title:  "Chorin' at the Walker Homestead"
 author: nim
-categories: [  Video ]
+categories: [  watch ]
 tags: [ stuff we made, jayne, quarantimes ]
 video: https://www.youtube.com/embed/4rOdCVx5I-E 
 image: 

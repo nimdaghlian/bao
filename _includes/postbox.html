@@ -29,6 +29,9 @@
                 {% endif %}
             </h2>
             <h4 class="card-text">{{ post.excerpt }}</h4>
+            {% if post.link %}
+             <p><a href="{{ post.link }}" target="_blank">Original article</a></p>
+             {% endif  %}   
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">

@@ -38,7 +38,9 @@ post_class: post-template
 <!-- Content -->
 {% include article.html %}
 
-
+{% if page.link %}
+    <h4 style="text-align: right;"><a href="{{ page.link }}" target="_blank">Original article ></a></h4>
+{% endif  %}  
 
 <!-- Author Box if enabled from _config.yml -->
 {% include author-box.html %}

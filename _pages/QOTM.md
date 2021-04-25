@@ -7,6 +7,12 @@ image: unicorn.jpeg
 imageshadow: true
 ---
 
+## Quiz of the Month is different than the (bad) quizzes from school
+  * you are not expected to know the answers already
+  * there are no grades
+  * the answers are meant to be fun to find out (hint: you can just google the questions verbatim)
+  * all the answers will be posted at the end of the month
+  
 ## You may submit your answers below or by mail to:
 
 > Quiz of the Month

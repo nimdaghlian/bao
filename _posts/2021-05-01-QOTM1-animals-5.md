@@ -4,7 +4,7 @@ title: Which song by popular recording artist "Lady" Gaga was covered by a band 
 author: nim
 categories: [ QOTM1 ]
 tags: [ QOTM, QOTM1]
-video: https://www.youtube.com/watch?v=pjTHEf4vdrg
+video: https://www.youtube.com/embed/pjTHEf4vdrg
 rating: 
 ---
 

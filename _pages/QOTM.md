@@ -13,6 +13,7 @@ imageshadow: true
   * the answers are meant to be fun to find out (hint: you can just google most of the questions verbatim)
   * all the answers will be posted at the end of the month
 
+## Update: Quiz of the month answers are all posted. A followup and Quiz 2 are posted [here](/QOTM1).
 ## You may submit your answers below or by mail to:
 
 > Quiz of the Month

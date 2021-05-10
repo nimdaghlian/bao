@@ -23,6 +23,12 @@ rating:
 ![Jen's Giraffe](/assets/images/qotm1/Jen-giraffe.jpg)
 > by Jen
 
+![Cameron's Giraffe](/assets/images/qotm1/cameron-giraffe.jpg)
+> by Cameron
+
+![Kris's Giraffe](/assets/images/qotm1/kris-giraffe.jpg)
+> by Kris
+
 ![jayne's Giraffe](/assets/images/qotm1/jayne-giraffe.jpeg)
 > by jayne
 

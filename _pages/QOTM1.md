@@ -23,7 +23,7 @@ Do quizzes stress you out? Dang, sorry! I blame school. Here's a hint for answer
 
 That's cool. Use it for a paper airplane. This is a take-home, no-time-limit, no-grades quiz. Just wait a month and all the answers will be posted here, on Bao.
 
-[All the answers to Quiz of the Month #1.](/category/qotm1/)
+[All the answers to Quiz of the Month #1.](/categories#QOTM1/)
 
 ### You can still get an A+ though
 
